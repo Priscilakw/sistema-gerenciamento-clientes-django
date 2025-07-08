@@ -1,0 +1,2 @@
+django-admin startproject cliente_gestor .
+python manage.py startapp clientes
